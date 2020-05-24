@@ -1,6 +1,6 @@
 print("Hola mundo, estoy aprendiendo a usar git.")
 print("ESTE ES EL PRIMER CAMBIO PARA ESTE CODIGO :D")
-
+"""
 import numpy as np 
 import matplotlib.pyplot as plt
 
@@ -11,3 +11,7 @@ plt.plot(x,f(x),"r",label="Funcion coseno")
 plt.legend(loc=2)
 plt.grid()
 plt.show()
+
+"""
+
+print("ACABO DE COMENTAR LA FUNCION COSENO")
